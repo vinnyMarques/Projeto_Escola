@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry exported="true" kind="lib" path="/home/rubyth/Área de Trabalho/Kennedy/mysql-connector-java-5.1.30/mysql-connector-java-5.1.30-bin.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/rubyth/Downloads/jcalendar/jcalendar-1.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/rubyth/Downloads/jcalendar/jgoodies-common-1.2.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/rubyth/Downloads/jcalendar/jgoodies-looks-2.4.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/rubyth/Downloads/jcalendar/junit-4.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
